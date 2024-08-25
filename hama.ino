@@ -14,7 +14,7 @@ const int servo3Pin = D6;  // Pin servo motor 3
 
 const char* ssid = "SWAG";
 const char* password = "Mangeak35";
-const char* serverUrl = "http://deteksihama.komputasi.org/post-esp-data.php"; // Ganti dengan URL API PHP Anda
+const char* serverUrl = "http://your-api-link/post-esp-data.php"; // Ganti dengan URL API PHP Anda
 String apiKeyValue = "tPmAT5Ab3j7F9";
 
 void setup() {
